@@ -1,1 +1,3 @@
-
+void Hi(){
+  print(Hi);
+}
